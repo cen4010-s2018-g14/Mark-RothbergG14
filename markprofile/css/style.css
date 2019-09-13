@@ -1,0 +1,39 @@
+.img-wrap{
+	width:"100%"	
+}
+.img-wrap img{
+	width: 100%;
+	padding: 10px;
+	border-radius: 50%;
+	box-shadow: 0 0 10px white;
+}
+body{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#aboutus h2{
+	margin-bottom: 25px;
+}
+body{
+	margin: 0;
+	padding 0;
+	background: url(bg.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+p{
+	color: white;
+}
+h2{
+	color: white;
+}
+.border{
+	display: block;
+	margin: auto;
+	width: 400px;
+	height: 3px;
+	background: #c7ecee;
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
